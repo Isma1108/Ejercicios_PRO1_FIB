@@ -9,5 +9,4 @@ int engreixa(int x) {
 int main() {
 	int num;
 	while(cin >> num) cout << engreixa(num) << endl;
-
 }
